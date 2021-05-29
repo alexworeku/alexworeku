@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexworeku
 - 👀 I’m interested in Cross-platform app development specially using flutter,
 - 🌱 I’m currently studing my BSC in Computer Science
-- 📫 How to reach me you can contact me using my gmail address alexworeku123@gmail.com
+- 📫 You can contact me using my gmail address alexworeku123@gmail.com
 
 <!---
 alexworeku/alexworeku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
