@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexworeku
-- 👀 I’m interested in Cross-platform app development specially using flutter,
-- 🌱 I’m currently studing my BSC in Computer Science
+- 👀 I’m interested in Cross-platform app development, Backend application development, Desktop app development
+- 🌱 In Dec 2021, I got my BSC in Computer Science
 - 📫 You can contact me using my gmail address alexworeku123@gmail.com
 
 <!---
