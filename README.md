@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @alexworeku
-- 👀 I’m interested in Cross-platform app development,Restful Api development, Desktop app development
-- 🌱 In Dec 2021, I got my BSC in Computer Science
-- 📫 You can contact me using my email address: alexworeku123@gmail.com
+## 👋 Alex Ababu: Software & Data Engineer
 
-<!---
-alexworeku/alexworeku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I focus on building reliable, scalable systems where **data meets code**. I'm a Data Engineer with a strong background in Software Development, currently pursuing an M.S. with an emphasis on **AI in Business**.
+
+---
+
+### 🚀 What I Build
+
+* **Data Pipelining:** Architecting and optimizing robust ETL/ELT flows using Python and SQL.
+* **Cloud Infrastructure:** Deploying and managing systems on **AWS**, with experience using Amazon Redshift and DynamoDB.
+* **AI/Automation:** Developing data-driven features, including LLM/RAG conversational assistants and automated data quality validation tools.
+* **Scalable Architecture:** Designing high-volume system architectures, such as the Telebirr Super App supporting **30M+ users**.
+
+### 🛠️ My Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Python, SQL, Java, C# |
+| **Cloud/DB** | AWS, Redshift, DynamoDB, MySQL |
+| **Tools** | Docker, Git/GitHub, Pandas, Tableau |
+
+---
