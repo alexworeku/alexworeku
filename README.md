@@ -7,9 +7,9 @@ I focus on building reliable, scalable systems where **data meets code**. I'm a 
 ### 🚀 What I Build
 
 * **Data Pipelining:** Architecting and optimizing robust ETL/ELT flows using Python and SQL.
-* **Cloud Infrastructure:** Deploying and managing systems on **AWS**, with experience using Amazon Redshift and DynamoDB.
+* **Cloud Infrastructure:** Deploying and managing systems on **AWS**, with experience using AWS Lambda, Amazon Redshift and DynamoDB.
 * **AI/Automation:** Developing data-driven features, including LLM/RAG conversational assistants and automated data quality validation tools.
-* **Scalable Architecture:** Designing high-volume system architectures, such as the Telebirr Super App supporting **30M+ users**.
+* **Scalable Architecture:** Designing high-volume system architectures, such as a Super App supporting **30M+ users**.
 
 ### 🛠️ My Stack
 
