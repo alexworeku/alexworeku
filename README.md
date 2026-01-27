@@ -16,7 +16,7 @@ I focus on building reliable, scalable systems where **data meets code**. I'm a 
 | Category | Skills |
 | :--- | :--- |
 | **Languages** | Python, SQL, Java|
-| **Cloud/DB** | AWS, Redshift, DynamoDB, MySQL |
+| **Cloud/DB** | AWS, Redshift, DynamoDB, PostgreSQL |
 | **Tools** | Docker, Git/GitHub, Pandas, Tableau |
 
 ---
