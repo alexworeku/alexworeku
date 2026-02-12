@@ -1,8 +1,6 @@
 # 👋 I'm Alex Ababu
 ### AI & Data Engineer | AI in Business Specialist
-
-I build the systems where **massive scale meets intelligent data.** Currently, I’m bridging the gap between robust backend architecture and AI-driven insights while pursuing my M.S. with an emphasis on **AI in Business.**
-
+I build high-throughput pipelines that integrate AI into the data stack, turning raw cloud data into production-ready intelligence.
 ---
 
 ### 🚀 Featured AI & Data Projects
