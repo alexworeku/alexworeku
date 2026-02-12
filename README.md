@@ -9,11 +9,11 @@ I build the systems where **massive scale meets intelligent data.** Currently, I
 
 | Project | Focus | Tech Stack |
 | :--- | :--- | :--- |
-| **LLM Customer Support Bot** | Real-time Slack integration for automated support. | Python, LLMs, RAG, Slack API |
-| **Credit Scoring Pipeline** | *[In Progress]* End-to-end AWS data pipeline for financial risk. | AWS, Redshift, Lambda, Python |
-| **LLM Monetization Framework** | Sample demo showcasing how to productize AI models. | Python, React, API Gateway |
-| **NLP Playground** | *[In Progress]* A laboratory for testing various NLP models. | Python, Transformers, PyTorch |
-| **8-Week SQL Challenge** | Advanced data modeling and complex query optimization. | PostgreSQL, Data Analysis |
+| **LLM Customer Support Bot** | Real-time Slack integration for automated support. | Python, LLMs, RAG, Slack API (Bolt) |
+| **Credit Scoring Pipeline** | *[In Progress]* End-to-end AWS data pipeline for financial risk. | Python, AWS (S3, Glue, PySpark, SageMaker, DynamoDB) |
+| [**LLM Conversation Semantic Search Demo**](https://github.com/alexworeku/llm-conversation-semantic-search-demo) | Sample demo showcasing how to productize AI models. | Python, ChromaDB, Microsoft Presidio, Streamlit |
+| **NLP Playground** | *[In Progress]* An interactive environment for exploring Natural Language Processing techniques. | Python, Spacy, Scikit-Learn, Streamlit |
+| [**8-Week SQL Challenge**](https://github.com/alexworeku/8-week-SQL-challenge-postgres) | End to end data processing and analysis using advanced SQL (CTEs, Window Functions, Joins, and Subqueries). | PostgreSQL, DBeaver |
 
 ---
 
@@ -30,7 +30,7 @@ I build the systems where **massive scale meets intelligent data.** Currently, I
 
 ### 📂 Other Engineering Work
 
-* **Ride-Hailing Ecosystem:** Comprehensive [Backend]([link](https://github.com/alexworeku/ride-hailing-backend)) and [Frontend](https://github.com/alexworeku/abay_ride_passenger_app) implementation featuring real-time driver/rider matching.
+* **Ride-Hailing Ecosystem:** Comprehensive [Backend](https://github.com/alexworeku/ride-hailing-backend) and [Frontend](https://github.com/alexworeku/abay_ride_passenger_app) implementation featuring real-time driver/rider matching.
 ---
 
 ### 📫 Connect with Me
