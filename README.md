@@ -1,6 +1,6 @@
 # 👋 I'm Alex Ababu
-### AI & Data Engineer | AI in Business Specialist
-I build high-throughput pipelines that integrate AI into the data stack, turning raw cloud data into production-ready intelligence.
+### Engineering the future of AI-driven Data Systems.
+I build high-scale data pipelines and cloud architectures that integrate AI into the modern data stack. Focused on automation, data integrity, and turning massive cloud datasets into production-ready intelligence.
 ---
 
 ### 🚀 Featured AI & Data Projects
