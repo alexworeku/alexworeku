@@ -1,7 +1,6 @@
 # 👋 I'm Alex Ababu
 ### Engineering the future of AI-driven Data Systems.
 I build high-scale data pipelines and cloud architectures that integrate AI into the modern data stack. Focused on automation, data integrity, and turning massive cloud datasets into production-ready intelligence.
----
 
 ### 🚀 Featured AI & Data Projects
 
