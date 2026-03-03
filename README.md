@@ -7,7 +7,7 @@ I build high-scale data pipelines and cloud architectures that integrate AI into
 | Project | Focus | Tech Stack |
 | :--- | :--- | :--- |
 | [**Serverless-AI-Slack-Bot**](https://github.com/alexworeku/serverless-ai-slack-bot) | Real-time Slack integration for automated support. | Python, LLMs, RAG, Slack API (Bolt) |
-| [**Credit Scoring Pipeline**](https://github.com/alexworeku/credit_agg_scoring_platform) | *[In Progress]* End-to-end AWS data pipeline for financial risk. | Python, AWS (S3, Glue, PySpark, SageMaker, DynamoDB) |
+| [**Credit Scoring Pipeline**](https://github.com/alexworeku/credit_agg_scoring_platform) |  End-to-end Python based data pipeline for financial risk. | Python, LightGBM, PostgreSQL, PySpark, FastAPI, React |
 | [**LLM Conversation Semantic Search Demo**](https://github.com/alexworeku/llm-conversation-semantic-search-demo) | Sample demo showcasing how to productize AI models. | Python, ChromaDB, Microsoft Presidio, Streamlit |
 | [**NLP Playground**](https://github.com/alexworeku/nlp-playground) | *[In Progress]* An interactive environment for exploring Natural Language Processing techniques. | Python, Spacy, Scikit-Learn, Streamlit |
 | [**8-Week SQL Challenge**](https://github.com/alexworeku/8-week-SQL-challenge-postgres) | End to end data processing and analysis using advanced SQL (CTEs, Window Functions, Joins, and Subqueries). | PostgreSQL, DBeaver |
