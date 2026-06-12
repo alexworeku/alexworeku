@@ -27,7 +27,7 @@ I build end-to-end AI systems, from RAG pipelines and agent tooling to the event
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
 | [**Serverless AI Slack Assistant**](https://github.com/alexworeku/serverless-ai-slack-bot) | RAG-powered Slack bot on AWS with listener/processor split for async LLM calls and multi-project routing | Python, AWS Lambda, API Gateway, SQS, DynamoDB |
-| [**PII Filter — LLM Chrome Extension**]([REPO_URL]) | Browser extension that masks PII in LLM prompts and unmasks entities in streamed responses in real time | TypeScript, Chrome Extension APIs |
+| [**PII Filter — LLM Chrome Extension**](https://github.com/alexworeku/PII-filter-LLM-chrome-extension) | Browser extension that masks PII in LLM prompts and unmasks entities in streamed responses in real time | TypeScript, Chrome Extension APIs |
 | [**Conversational Intent Search**](https://github.com/alexworeku/llm-conversation-semantic-search-demo) | Privacy-aware semantic search over anonymized chat history with streaming ingestion and embedding-based retrieval | Python, ChromaDB, Microsoft Presidio, Streamlit |
 | [**Credit Scoring Pipeline**](https://github.com/alexworeku/credit_agg_scoring_platform) | End-to-end PySpark pipeline and LightGBM model for credit risk prediction on financial transaction data | Python, PySpark, LightGBM, PostgreSQL, FastAPI |
 | [**S2-Index Geospatial Platform**]([REPO_URL]) | Full-stack ride-hailing system: REST API, admin dashboard, dispatch service, and rider/driver mobile apps | Node.js, TypeScript, React, AWS EC2, Google Maps |
