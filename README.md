@@ -12,7 +12,7 @@
 
 ---
 
-I build end-to-end AI systems, from RAG pipelines and agent tooling to the event-driven backends that run them. Previously shipped payment and POS infrastructure in production. Currently at ASU Enterprise Technology, finishing my MS in AI at W. P. Carey (May 2026).
+I build end-to-end AI systems, from RAG pipelines and agent tooling to the event-driven backends that run them. Previously shipped payment and POS infrastructure in production. Currently at ASU Enterprise Technology, finished my MS in AI in Business at W. P. Carey (May 2026) and BS in Computer Science (Nov 2021).
 
 ### 🛠 What I'm working on
 
